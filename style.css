@@ -9,3 +9,39 @@ body {
 h1 {
     color: #00ffcc;
 }
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+nav {
+    margin: 20px;
+}
+
+nav a {
+    color: #00ffcc;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.project-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-list li {
+    margin: 10px 0;
+    font-size: 1.2em;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
